@@ -1,6 +1,6 @@
 # WaterLevel
-The goal of the project is to create an add-on for the water faucet that allows filling 
-any container without predefining the amount of water it can hold.
+The goal of the project is to create an add-on for water bar that allows filling 
+any container without predefining its capacity.
 
 How It works:
 1. Finding the upper threshold of the container using Canny edge detection.
